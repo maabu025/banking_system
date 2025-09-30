@@ -1,0 +1,10 @@
+1000000001,Mame Yaa,5000.50,Savings
+1000000002,Ruth Arhin,12500.75,Current
+1000000003,Michael Osei,3200.00,Savings
+1000000004,Mary Atanga,8900.25,Current
+1000000005,David Wilson,15000.00,Savings
+1000000006,Sarah Martinez,4500.80,Savings
+1000000007,Robert Taylor,22000.50,Current
+1000000008,Lisa Quama,6700.00,Savings
+1000000009,James Kipo,9800.30,Current
+1000000010,Jennifer Adjei,11500.00,Savings
